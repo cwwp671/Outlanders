@@ -5,14 +5,14 @@ The player can choose between four different classes, each of which have 5 abili
 
 Some of the highlights of the project are:
 
-    * Steamworks integration to be able to play through Steam
-    * MOBA style Ability, and Level Up, system
-    * Real time melee combat
-    * Four Different Classes – Each with 4 usable abilities and 1 passive ability
-        * Warrior
-        * Mage
-        * Archer
-        * Barbarian
-    * Two Game Modes
-        * Free For All
-        * Team Death Match
+    - Steamworks integration to be able to play through Steam
+    - MOBA style Ability, and Level Up, system
+    - Real time melee combat
+    - Four Different Classes – Each with 4 usable abilities and 1 passive ability
+        - Warrior
+        - Mage
+        - Archer
+        - Barbarian
+    - Two Game Modes
+        - Free For All
+        - Team Death Match
