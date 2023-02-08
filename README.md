@@ -1,6 +1,7 @@
 # Outlanders
 
 [![Outlanders Early Build](https://img.youtube.com/vi/JyWhYDWiLhM/0.jpg)](https://www.youtube.com/watch?v=JyWhYDWiLhM)
+Click Image for YouTube Video
 
 The Capstone project of the 2013 – 2014 Senior Class at NHTI. The project became larger than any of us imagined at the beginning of the semester, and many of us planned on working on it after school was done. Sadly due to a game breaking crash, that we spent months trying to fix, it was decided to leave the game as is and move onto other projects.
 
