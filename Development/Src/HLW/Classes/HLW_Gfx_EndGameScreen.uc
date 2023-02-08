@@ -1,8 +1,9 @@
-/**
- * HLW_Gfx_EndGameScreen - Handles all funtionality associated with the
- * end game screens. Showing Deaths, Kills, Class, Level, ect...
- * 
- * Original Author: Paul Ouellette
+/*
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
  */
 
 class HLW_Gfx_EndGameScreen extends GFxMoviePlayer;

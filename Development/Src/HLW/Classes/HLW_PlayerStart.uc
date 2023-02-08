@@ -1,8 +1,9 @@
-/**
- * Original Author: Paul Ouellette
- * 
- * Custom Player Start to hold our own properties in addition
- * to the ones set up by epic
+/*
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
  */
 
 class HLW_PlayerStart extends PlayerStart

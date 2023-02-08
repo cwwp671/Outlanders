@@ -1,9 +1,11 @@
 /*
- * This is the base class for all player classes.
- * The Mage, Warrior, Archer, etc classes should all inherit from this.
- * Any code they have in common should go here.
- * ~ Chris L
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
  */
+ 
 class HLW_Pawn_Class extends HLW_Pawn;
 
 var bool bInitiliazedHUD;

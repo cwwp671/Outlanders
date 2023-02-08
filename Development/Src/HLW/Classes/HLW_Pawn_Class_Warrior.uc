@@ -1,8 +1,11 @@
 /*
- * The class for the Warrior player class.
- * Only code specific to the Warrior should go here.
- * ~ Chris L
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
  */
+ 
 class HLW_Pawn_Class_Warrior extends HLW_Pawn_Class
 placeable;
 

@@ -1,3 +1,11 @@
+/*
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
+ */
+ 
 class HLW_StatusEffect_Buff extends HLW_StatusEffect;
 
 enum HLW_Stat

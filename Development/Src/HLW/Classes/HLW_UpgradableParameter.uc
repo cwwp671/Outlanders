@@ -1,13 +1,9 @@
 /*
- * This class is to be used for aspects of abilities (Duration, Phys Power as Damage, etc) that
- * you want to change over time based on ability level. Theoretically, this class could work for
- * things specific to a character, like Magical Power, etc. However, I have not tested that use case.
- * 
- * This class allows a lot of flexibility with how a parameter will be upgraded. It can/should be set
- * up with "Begin Object" and "End Object" in the defaultproperties, though it can also be created
- * elsewhere with "new class'HLW_UpgradableParameter'"
- * 
- * ~Chris L
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
  */
 
 class HLW_UpgradableParameter extends Object;

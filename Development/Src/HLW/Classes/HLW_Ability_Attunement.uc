@@ -1,3 +1,11 @@
+/*
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
+ */
+ 
 class HLW_Ability_Attunement extends HLW_Ability_Passive;
 
 var(Ability) HLW_StatusEffect_Stun StunToApply;

@@ -1,8 +1,13 @@
+/*
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
+ */
+ 
 class HLW_StatusEffect extends Actor
 	DependsOn(HLW_Pawn);
-
-// CJL TODO: Give status effects variables for whether it affects/ignores teammates/enemies/self
-// Handle that logic in the status effects so we don't have to worry about it elsewhere
 
 var float Duration;
 var float Period; // How often the effect updates

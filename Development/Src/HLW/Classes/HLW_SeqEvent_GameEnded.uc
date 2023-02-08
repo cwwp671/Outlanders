@@ -1,3 +1,11 @@
+/*
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
+ */
+ 
 class HLW_SeqEvent_GameEnded extends SequenceEvent;
 
 /** The winner of the game. In Deathmatch, the player with the final kill; in other gametypes, the home base of the winning team */

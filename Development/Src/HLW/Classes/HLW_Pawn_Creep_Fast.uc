@@ -1,7 +1,11 @@
 /*
-This is the scout creep
-
-*/
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
+ */
+ 
 class HLW_Pawn_Creep_Fast extends HLW_Pawn_Creep
 	ClassGroup(HeroLineWars)
     placeable;

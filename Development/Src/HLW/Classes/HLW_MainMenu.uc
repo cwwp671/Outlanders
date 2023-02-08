@@ -1,11 +1,9 @@
-/**
- * HLW_MainMenu - Handles all main menu functionality which includes the 
- * lan menu and the server browser. Will be adding the options screen here 
- * as well.
- * 
- * Original Author: Paul Ouellette
- * 
- * TODO: Break this up into separate swfs to make it easier to work with.
+/*
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
  */
 
 class HLW_MainMenu extends GFxMoviePlayer

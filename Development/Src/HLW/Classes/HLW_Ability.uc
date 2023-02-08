@@ -1,9 +1,14 @@
 /*
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
  * Base class for all class abilities.
  * Any code the abilities share in common should go here.
  * Contains code for positioning the aiming mesh, and base functions for activation/etc
- * ~ Chris Looloo
  */
+ 
 class HLW_Ability extends ReplicationInfo;
 
 // Subclasses should set this to their individual aiming decals

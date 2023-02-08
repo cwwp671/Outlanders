@@ -1,8 +1,11 @@
 /*
- * The class for the Archer player class.
- * Only code specific to the Archer should go here.
- * ~ Chris LamePoop
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
  */
+ 
 class HLW_Pawn_Class_Archer extends HLW_Pawn_Class
 placeable;
 

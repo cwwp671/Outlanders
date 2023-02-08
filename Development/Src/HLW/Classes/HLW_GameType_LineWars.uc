@@ -1,8 +1,10 @@
-/**
- * HLW_GameType_LineWars - Main game type for the game.
- * This is a MOBA style game type where the objective is to kill the other teams nexus
+/*
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
  */
-
 
 class HLW_GameType_LineWars extends HLW_GameType;
 

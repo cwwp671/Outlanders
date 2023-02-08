@@ -1,9 +1,10 @@
-/**
- * HLW_GameType_FFA - Handles all Free for All game type rules.
- * 
- * Original Author: Paul Ouellette
+/*
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
  */
-
 
 class HLW_GameType_FFA extends HLW_GameType;
 

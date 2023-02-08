@@ -1,13 +1,11 @@
-/**
- * Original Author: Paul Ouellette
- * 
- * A trigger that contains delegates we can bind to for any events an actor can have. 
- * Currently only the touch and untouch events are being used.
- * 
- * I made this a placeable actor to
- * be able to play around with the collision cylinder in the editor.
+/*
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
  */
-
+ 
 class HLW_Trigger extends Actor
 	placeable
 	ClassGroup(HLW_Trigger);

@@ -1,13 +1,12 @@
-/**
- * Original Author: Paul Ouellette
- * 
- * HLW_ChatWindow - a swf component to inject into the hud to handle in game chat
+/*
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
  */
+ 
 class HLW_HUD_ChatWindow extends GFxMoviePlayer;
-
-/* Followed tut found here : 
- * http://udn.epicgames.com/Three/CLIKChatBox.html
- * */
 
 var bool bChatting;
 

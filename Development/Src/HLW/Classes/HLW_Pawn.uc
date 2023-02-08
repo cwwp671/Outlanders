@@ -1,8 +1,11 @@
 /*
- * This will be the base class for pawns of all player classes and creep classes.
- * If there's any code each of them have in common, it should go here.
- * ~ Chris L
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
  */
+ 
 class HLW_Pawn extends UDKPawn;
 
 struct HLW_HitInfo

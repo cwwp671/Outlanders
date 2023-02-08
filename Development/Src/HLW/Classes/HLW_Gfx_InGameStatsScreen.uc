@@ -1,11 +1,11 @@
-/**
- * HLW_Gfx_InGameStatsScreen - Class to handle showing the stats during a match
- * extends upon the End Game Screen that is displayed at the end of a match.
- * Currently only updates when the screen is opened. Could add updating while the window is open
- * in future.
- * 
- * Original Author - Paul Ouellette
+/*
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
  */
+ 
 class HLW_Gfx_InGameStatsScreen extends HLW_Gfx_EndGameScreen;
 
 function Init(optional LocalPlayer Player)

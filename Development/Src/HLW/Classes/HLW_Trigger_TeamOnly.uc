@@ -1,11 +1,9 @@
-/**
- * Original Author: Paul Ouellette
- * 
- * A trigger that extends on the functionality of the base trigger to only be triggered
- * by a member of the team that the trigger is in.
- * 
- * I made this a placeable actor to
- * be able to play around with the collision cylinder in the editor.
+/*
+ * Author: Connor Pandolph
+ * Co-Authors: Connor Hatch, Lukas Kuligowski, Paul Ouellette, Chris Logsdon
+ * Game: Outlanders
+ * Engine: Unreal Engine 3
+ * Date: 2014
  */
 
 class HLW_Trigger_TeamOnly extends HLW_Trigger
